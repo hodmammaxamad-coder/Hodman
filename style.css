@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(111, 110, 149);
+    height: 100vh;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    border: 2px solid sienna;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.title {
+    background-color: bisque;
+    color: black;
+    text-align: center;
+    padding: 30px;
+    font-size: 15px;
+    margin: 4px;
+}
+
+h1 {
+    background-color: aqua;
+    font-family: 'Lucida Sans', Geneva, Verdana, sans-serif;
+    font-size: large;
+    padding: 8px;
+    margin: 0;
+}
+
+p {
+    background-color: rgb(218, 122, 26);
+    color: white;
+    padding: 8%;
+    margin: 1px;
+    font-size: 30px;
+    line-height: 1.6;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 9px;
+}
